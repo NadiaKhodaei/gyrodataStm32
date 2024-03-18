@@ -85,7 +85,7 @@ Run Script: Execute the Python script on your computer.
 - Monitor gyro drift and noise levels in the console output for system health assessment.
 - Ensure proper corrective action if gyro drift or noise levels exceed acceptable thresholds.
 
-##Troubleshooting
+## Troubleshooting :
 - If the script fails to establish a serial connection, check the serial port settings and ensure the correct port is specified.
 - If gyro drift or noise levels are abnormal, consider recalibrating the gyroscope or investigating potential hardware issues.
 
